@@ -1,0 +1,14 @@
+* {
+    font-family: helvetica, sans-serif;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    margin:10px;
+    text-decoration: none;
+    color: rgb(0, 128, 21)
+}
